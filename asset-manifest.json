@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/huluappclone/static/css/main.6cbf1c9c.css",
+    "main.js": "/huluappclone/static/js/main.dc3f284f.js",
+    "index.html": "/huluappclone/index.html",
+    "main.6cbf1c9c.css.map": "/huluappclone/static/css/main.6cbf1c9c.css.map",
+    "main.dc3f284f.js.map": "/huluappclone/static/js/main.dc3f284f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cbf1c9c.css",
+    "static/js/main.dc3f284f.js"
+  ]
+}
